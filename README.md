@@ -4,7 +4,8 @@ This is a dashoard designed for Nabeel Project .
 
 #### clone it then
 
-```npm i
+```
+npm i
 
 or
 
